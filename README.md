@@ -1,4 +1,4 @@
-# To-Do-List
+# To Do List
 
 ### Try it [here](https://guillaumeauger85.github.io/To-Do-List/)
 
